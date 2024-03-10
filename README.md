@@ -30,8 +30,9 @@ I've delved into AWS, unlocking a secure and streamlined solution for analyzing 
 
 
 ### **Key Takeaways were** - 
-AWS Concepts 
-Full Data engineering lifecycle workflow.
-Troubleshooting and error resolution. Pleased to tackle and solve various errors which not only helped me to understand AWS in more depth but also made me explore more options and alternatives.
+- AWS Concepts 
+- Full Data engineering lifecycle workflow.
+- Troubleshooting and error resolution.  
+Pleased to tackle and solve various errors which not only helped me to understand AWS in more depth but also made me explore more options and alternatives.
 
 **Data source** - https://www.kaggle.com/datasets/datasnaek/youtube-new
