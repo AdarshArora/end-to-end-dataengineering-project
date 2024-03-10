@@ -45,4 +45,9 @@ Pleased to tackle and solve various errors which not only helped me to understan
 ![glue_overview](glue-2.png)
 
 
+- Snippet from Dashboard:
+
+![image](https://github.com/AdarshArora/end-to-end-dataengineering-project/assets/57875793/acebccfc-506a-4001-a474-3b3792fbb19e)
+
+
 ### **Data source** - https://www.kaggle.com/datasets/datasnaek/youtube-new
