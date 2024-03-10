@@ -1,21 +1,21 @@
 # Data Engineering Project - End to End Youtube Data Analysis
 
+###Description
 Canadians prefer Vlogs & documentaries, Britishers top Entertainment watch time, and Americans lead in Science & Technology videos on Youtube among these three!📺✨
+
 
 Embarked on an epic journey with this End-to-End Data Engineering project! 
 I've delved into AWS, unlocking a secure and streamlined solution for analyzing YouTube data across regions.
 
-🛠 **Services Used**:-
- AWS Glue (Crawlers, Visual ETL jobs, Glue Catalog.), AWS Lambda, Quicksight, S3, Athena, Cloudwatch, IAM, pySpark, Python, Pandas and AWS Quicksight to visualize.
 
-
-🛠 **Services Used:**
+###🛠**Services Used:**
 - AWS Glue (Crawlers, Visual ETL jobs, Glue Catalog)
 - AWS Lambda, Quicksight, S3, Athena, Cloudwatch, IAM
 - pySpark, Python, Pandas
 - AWS Quicksight for visualization
 
-🔄 **Project Lifecycle:**
+
+###🔄**Project Lifecycle:**
 
 **Data Ingestion**: Built a robust mechanism using AWS S3 bucket for ingesting partitioned data from external source plus internal aws services.
 
@@ -28,7 +28,7 @@ I've delved into AWS, unlocking a secure and streamlined solution for analyzing 
 **Analytics**: Constructed an insightful dashboard to analyze data and get key findings and answers. Used: AWS Athena for querying data and creating new analytics database. AWS Quicksight - For dashboarding and BI service (offers cloud-based analytics).
 
 
-**Personal Key Takeaways were** - 
+###**Key Takeaways were** - 
 AWS Concepts 
 Full Data engineering lifecycle workflow.
 Troubleshooting and error resolution. Pleased to tackle and solve various errors which not only helped me to understand AWS in more depth but also made me explore more options and alternatives.
